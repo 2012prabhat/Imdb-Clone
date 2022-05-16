@@ -7,3 +7,7 @@ React.js
 Node.js
 
 Tailwind CSS. 
+
+Github Link:- https://github.com/2012prabhat/Imdb-Clone
+
+Deploy Link :- https://imdb-clone-prabhat.netlify.app/
